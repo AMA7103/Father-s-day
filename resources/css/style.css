@@ -23,8 +23,11 @@ p {
   font-family: cursive;
 }
 h3 {
-
+  font-size: 40px;
+  color: purple;
+  font-weight: bold;
 }
 #love{
-  
+  color:pink;
+  font-weight: bold;
 }
